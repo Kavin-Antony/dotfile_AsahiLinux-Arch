@@ -1,0 +1,1 @@
+2025-08-01 23:48:28.550 [error] Failed to set sticky bit on /tmp/ghost-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/ghost-code-zsh'

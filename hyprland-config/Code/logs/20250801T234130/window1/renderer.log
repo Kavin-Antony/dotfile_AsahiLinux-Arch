@@ -1,0 +1,7 @@
+2025-08-01 23:41:30.637 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-01 23:41:30.648 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-01 23:41:30.648 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-01 23:41:30.875 [info] Started local extension host with pid 3774.
+2025-08-01 23:41:31.073 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-08-01 23:41:33.556 [info] [perf] Render performance baseline is 16ms
+2025-08-01 23:48:15.077 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
