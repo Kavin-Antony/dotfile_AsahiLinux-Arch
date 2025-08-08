@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha Bordered",
+    "workbench.iconTheme": "catppuccin-perfect-mocha",
+    "workbench.sideBar.location": "right",
+    "files.autoSave": "afterDelay"
+}
